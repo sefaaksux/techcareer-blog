@@ -333,6 +333,8 @@ footer .footer-social-media ul li i{
     footer .footer-content{
         display: flex;
         flex-direction: column;
+        max-width: 60%;
+        width: 60%;
     }
     
     
