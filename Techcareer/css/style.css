@@ -329,7 +329,7 @@ footer .footer-social-media ul li i{
         max-width: 100%;
     }
 }
-@media only screen and (max-width:771px) {
+@media only screen and (max-width:800px) {
     footer .footer-content{
         display: flex;
         flex-direction: column;
